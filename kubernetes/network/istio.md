@@ -1,8 +1,8 @@
-# Summary
+# Istio
 
-## Getting Super Powers
+## Viewing Istio
 
-Becoming a super hero is a fairly straight forward process:
+A useful tool for viewing Istio service mesah configurations can be found here: [https://github.com/kiali/kiali](https://github.com/kiali/kiali)
 
 ```
 $ give me super-powers
