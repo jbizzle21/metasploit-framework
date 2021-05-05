@@ -9,6 +9,7 @@
     * [Untitled](kubernetes/security-contexts/untitled/README.md)
       * [Untitled](kubernetes/security-contexts/untitled/untitled.md)
 * [Rancher K3s](rancher-k3s/README.md)
+  * [K3s Security Hardeninig](rancher-k3s/k3s-security-hardeninig.md)
   * [Connecting a K3 agent](rancher-k3s/connecting-a-k3-agent.md)
 * [Untitled](untitled-1.md)
 
